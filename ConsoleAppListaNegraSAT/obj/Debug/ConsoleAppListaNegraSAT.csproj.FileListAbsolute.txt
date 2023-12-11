@@ -1,0 +1,16 @@
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.csproj.AssemblyReference.cache
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\bin\Debug\ConsoleAppListaNegraSAT.exe.config
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\bin\Debug\ConsoleAppListaNegraSAT.exe
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\bin\Debug\ConsoleAppListaNegraSAT.pdb
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.exe
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.pdb
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\Source Code\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\bin\Debug\ConsoleAppListaNegraSAT.exe.config
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\Source Code\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\bin\Debug\ConsoleAppListaNegraSAT.exe
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\Source Code\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\bin\Debug\ConsoleAppListaNegraSAT.pdb
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\Source Code\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.csproj.AssemblyReference.cache
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\Source Code\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\Source Code\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\Source Code\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.exe
+C:\Users\Sistemas\Downloads\DESARROLLOS\APP EXTERNAS CON C#\Función Descargar Lista Negra\Source Code\ConsoleAppListaNegraSAT\ConsoleAppListaNegraSAT\obj\Debug\ConsoleAppListaNegraSAT.pdb
